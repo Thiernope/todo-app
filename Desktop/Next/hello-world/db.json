@@ -1,0 +1,112 @@
+{
+    "events": [
+    {
+        "id": 1,
+        "name": "Weeding",
+        "category": "civil",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+    },
+    {
+        "id": 2,
+        "name": "Footbal Match",
+        "category": "sports",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+    },
+    {
+        "id": 3,
+        "name": "Basktball",
+        "category": "sports",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+    },
+    {
+        "id": 4,
+        "name": "Worship",
+        "category": "relious",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+    },
+    {
+        "id": 5,
+        "name": "Election",
+        "category": "politics",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+    },
+    {
+        "id": 6,
+        "name": "Propaganda",
+        "category": "politics",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+    },
+    {
+        "id": 7,
+        "name": "Volley ball",
+        "category": "sports",
+        "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+    }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Jonathan",
+            "email": "jonatan@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Jon.....",
+            "email": "jon@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Natan",
+            "email": "natan@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "clet",
+            "email": "clet@gmail.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "airmax",
+            "price": 2
+        },
+        {
+            "id": 2,
+            "name": "airPox",
+            "price": 300
+        },
+        {
+            "id": 3,
+            "name": "airTsh",
+            "price": 2000
+        }
+    ],
+
+    "news": [
+        {
+            "id": 1,
+            "category": "sports",
+            "body": "In p.........."
+
+        },
+        {
+            "id": 2,
+            "category": "politics",
+            "body": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+
+        },
+        {
+            "id": 3,
+            "category": "sports",
+            "body": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+
+        },
+        {
+            "id": 4,
+            "category": "entertainment",
+            "body": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+
+        }
+    ]
+}
